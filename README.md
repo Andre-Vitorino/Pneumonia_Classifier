@@ -14,3 +14,5 @@ You can train this model with these data and after that use any pneumonia image 
 This is the output you should have after run the code on your PC: 
 
 ![diagnosis](/output_example/output.jpeg)
+
+OBS_1: To avoid any path error, remenber to change the paths to your own.
