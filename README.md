@@ -1,18 +1,41 @@
-OBS: To run this code in your computer, is recommended to you run requirements.txt file, to avoid any error caused by outdating libraries. 
+# Pneumonia Classifier 
+## Classifying pneumonia from chest x-ray
 
-Effectively classifying medical images play an essential role in aiding clinical care and treatment. 
-For example, Analysis X-ray is the best approach to diagnose pneumonia which causes about 50,000 people to die per year in the US, 
-but classifying pneumonia from chest X-rays needs professional radiologists which is a rare and expensive resource for some regions.
 
-With a image classifier algorithm you don't need to carry about getting help from any health professional to do classifications for you, besides that,
-the process is to much quickly and precise than to a manually classification. 
+# 1.0 The contex
 
-I got this dataset from Klaggle competition: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+## 1.1 What are the complication of pneumonia?
 
-You can train this model with these data and after that use any pneumonia image to do your Diagnosis.
+- Low levels of oxygen in blood flows
+- Low arterial presure with life risk
+- Lung abscess or empyema
+- Severe lung injury
 
-This is the output you should have after run the code on your PC: 
+## 1.2 Facts about pneumonia:
+
+Pneumonia is a very common diase that afect about 450 milions peoples per year, and occurs in all the world. It is one of the main death causes between all the age groups, resulting in 4 million of deaths(7% of all total deaths in the world).
+
+It is 5x more frequently in developing countries than in developed countries, because of nutrition and hygiene conditions.
+
+Today the diagnosis are made through a doctor or a trained radiologists, and this can be a problem to certain regions of the world.
+
+# 2.0 The Solution
+
+Thinking about this problemns, i decided to make an algorithm to make things more easy for every one. With a pneumonia classifier i dont have to horry about find someone capable of make diagnosis. With this approuch the diagnosis are made more fast, more assertive and less expensive.
+
+## 2.1 How to use this solution?
+
+If you want to ue this solution, please follow the steps bellow:
+
+1 - Download the Forecast_Pneumonia.ipynb archive
+2 - Open it in your favorite code editor
+3 - Remember to change the names of paths and images to your own, to avoid errors
+
+## 2.2 What are the expected outputs?
+
+There are two types outputs: Normal and Pneumonia. Like the examples bellow:
 
 ![diagnosis](/output_example/output.jpeg)
 
-OBS_1: To avoid any path error, remember to change the paths to your own.
+
+
