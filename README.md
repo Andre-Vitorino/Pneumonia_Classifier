@@ -13,7 +13,7 @@
 
 ## 1.2 Facts about pneumonia:
 
-Pneumonia is a very common disease that afect about 450 milions peoples per year, and occurs in all the world. It is one of the main death causes between all age groups, resulting in 4 million of deaths(7% of all total deaths in the world).
+Pneumonia is a very common disease that afect about 450 milions people per year, and occurs in all the world. It is one of the main death causes between all age groups, resulting in 4 million of deaths(7% of all total deaths in the world).
 
 It is 5x more frequently in developing countries than in developed countries, because of nutrition and hygiene conditions.
 
@@ -25,7 +25,7 @@ Thinking about this problemns, I decided to make an algorithm to make things mor
 
 ## 2.1 How to use this solution?
 
-If you want to ue this solution, please follow the steps bellow:
+If you want to use this solution, please follow the steps bellow:
 
 1 - Download the Forecast_Pneumonia.ipynb archive
 2 - Open it in your favorite code editor
