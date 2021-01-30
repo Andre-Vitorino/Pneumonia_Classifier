@@ -13,7 +13,7 @@
 
 ## 1.2 Facts about pneumonia:
 
-Pneumonia is a very common diase that afect about 450 milions peoples per year, and occurs in all the world. It is one of the main death causes between all the age groups, resulting in 4 million of deaths(7% of all total deaths in the world).
+Pneumonia is a very common disease that afect about 450 milions peoples per year, and occurs in all the world. It is one of the main death causes between all the age groups, resulting in 4 million of deaths(7% of all total deaths in the world).
 
 It is 5x more frequently in developing countries than in developed countries, because of nutrition and hygiene conditions.
 
