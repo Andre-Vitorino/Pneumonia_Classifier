@@ -21,7 +21,7 @@ Today the diagnosis are made through a doctor or a trained radiologists, and thi
 
 # 2.0 The Solution
 
-Thinking about this problemns, i decided to make an algorithm to make things more easy for every one. With a pneumonia classifier i dont have to horry about find someone capable of make diagnosis. With this approuch the diagnosis are made more fast, more assertive and less expensive.
+Thinking about this problemns, I decided to make an algorithm to make things more easy for everyone. With a pneumonia classifier we dont have to worry about find someone capable of make diagnosis. With this approuch the diagnosis are made more fast, more assertive and less expensive.
 
 ## 2.1 How to use this solution?
 
